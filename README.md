@@ -9,11 +9,11 @@ There are several achievements on Github, some are unfortunately still in the te
 # 📌 Achievements Table of Contents
 - 🦈 [Pull Shark](#-pull-shark)
 - 🤠 [Quickdraw](#-quickdraw)
-- 🌟 [Starstruck](#-Starstruck)
-- 🧠 [Galaxy Brain](#-Galaxy-brain)
-- 👥 [Pair Extraordinaire](#-Pair-extraordinaire)
-- ❤️ [Public Sponsor](#-Public-Sponsor)
-- 🔰 [Highlight](#-Highlight)
+- 🌟 [Starstruck](#-starstruck)
+- 🧠 [Galaxy Brain](#-galaxy-brain)
+- 👥 [Pair Extraordinaire](#-pair-extraordinaire)
+- ❤️ [Public Sponsor](#-public-sponsor)
+- 🔰 [Highlight](#-highlight)
 
 <br>
 
