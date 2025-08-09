@@ -7,8 +7,8 @@ There are several achievements on Github, some are unfortunately still in the te
 <img width="674" height="309" alt="image" src="https://github.com/user-attachments/assets/ee3302ff-5aa2-4fa7-853d-75da79ea301f" />
 
 # 📌 Achievements Table of Contents
-- 🦈 [Pull Shark](#-Pull-Shark)
-- 🤠 [Quickdraw](#-Quickdraw)
+- 🦈 [Pull Shark](#-pull-shark)
+- 🤠 [Quickdraw](#-quickdraw)
 - 🌟 [Starstruck](#-Starstruck)
 - 🧠 [Galaxy Brain](#-Galaxy-brain)
 - 👥 [Pair Extraordinaire](#-Pair-extraordinaire)
