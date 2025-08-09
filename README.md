@@ -7,14 +7,14 @@ There are several achievements on Github, some are unfortunately still in the te
 <img width="674" height="309" alt="image" src="https://github.com/user-attachments/assets/ee3302ff-5aa2-4fa7-853d-75da79ea301f" />
 
 # 📌 Achievements Table of Contents
-- 🦈 [Pull Shark](#-pull-shark)
-- 🤠 [Quickdraw](#-quickdraw)
-- 🌟 [Starstruck](#-starstruck)
-- 🧠 [Galaxy Brain](#-galaxy-brain)
-- 👥 [Pair Extraordinaire](#-pair-extraordinaire)
-- ❤️ [Public Sponsor](#-public-sponsor)
-- 🔰 [Highlight](#-highlight)
-
+- 🦈 [Pull Shark](#pull-shark)
+- 🤠 [Quickdraw](#quickdraw)
+- 🌟 [Starstruck](#starstruck)
+- 🧠 [Galaxy Brain](#galaxy-brain)
+- 👥 [Pair Extraordinaire](#pair-extraordinaire)
+- ❤️ [Public Sponsor](#public-sponsor)
+- 🔰 [Highlight](#highlight)
+  
 <br>
 
 # Pull Shark 
